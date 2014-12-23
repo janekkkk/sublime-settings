@@ -56,7 +56,6 @@ ln -s ~/PATH/User
     "show_minimap": true,
     "tab_size": 4,
     "tabs_small": true,
-    "theme": "itg.flat.light.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "wide_caret": true,
