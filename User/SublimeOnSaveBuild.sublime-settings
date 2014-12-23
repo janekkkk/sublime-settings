@@ -1,0 +1,5 @@
+     {
+            "filename_filter": ".(sass|scss)$",
+            "build_on_save": 0
+        }
+
